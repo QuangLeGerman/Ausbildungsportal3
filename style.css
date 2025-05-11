@@ -48,6 +48,10 @@ div > .s1:hover {
   color: brown;
   font-size: 15px;
 }
+div > .s2:hover {
+  color: brown;
+  font-size: 12px;
+}
 div > .s1 {
   color: black;
 }
