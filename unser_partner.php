@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Unser Partner</title>
   </head>
-  <h1 class="homepage1"> <a href="./index.html">homepage</a></h1>
+  <h1 class="homepage1"> <a href="./index.php">homepage</a></h1>
   <h1>Unsere Partner</h1>
   <p>
     Starke Partnerschaften – für eine starke Zukunft. Hinter dem Erfolg unserer
@@ -59,7 +59,7 @@
       freuen wir uns über Ihre Kontaktaufnahme.
     </p>
     <h2>
-      <a href="./index.html">Gemeinsam Zukunft gestalten – mit starken
+      <a href="./index.php">Gemeinsam Zukunft gestalten – mit starken
       Partnern an unserer Seite.
     </h2></a> 
     <!--Start of Tawk.to Script-->

@@ -3,10 +3,16 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+    <title>Ausbildungsanmeldung</title>
   </head>
-<h1 class="homepage1"> <a href="./index.html">homepage</a></h1>
-  <h2>Registrierung</h2>
+  <h1 class="homepage1"> <a href="./index.php">homepage</a></h1>
+  <h1 style="color: red">Anmeldung für deine Ausbildung – Starte jetzt deine Zukunft!</h1>
+
+    Deine Ausbildung wartet – mach den ersten Schritt und werde Teil unserer
+    Plattform.
+  </h1>
+  <h2 class="mauregistrierung1">Anmeldung für deine Ausbildung</h2>
   <form action="/register" method="post">
     <table>
       <tr>
@@ -47,15 +53,47 @@
         <td><label for="Telefon">Telefon:</label></td>
         <td><input type="Telefon" id="Telefon" name="Telefon" required /></td>
       </tr>
-
       <tr>
+        <td><label for="Ausbildung">Ausbildungen:</label></td>
+        <td>
+          <select id="Ausbildung" name="Ausbildung" required>
+            <option value="">Bitte auswählen</option>
+            <option value="Hotelfachmann/-frau">Hotelfachmann/-frau</option>
+            <option value="Krankenschwester">Krankenschwester</option>
+            <option value="Altenpflege">Altenpfleger</option>
+            <option value="Techniker/-in">Techniker/-in</option>
+            <option value="Hausmeister">Hausmeister</option>
+            <option value="Verkäufer/-in">Verkäufer/-in</option>
+            <option value="Busfahrer/-in">Busfahrer/-in</option>
+            <option value="Bauer">Bauer</option>
+            <option value="Koch">Koch</option>
+            <option value="Restaurantfachmann/-frau">
+              Restaurantfachmann/-frau
+            </option>
+            <option value="Elektroniker">Elektroniker</option>
+          </select>
+        </td>
+      </tr>
+      <tr>
+        <td><label for="andere Ausbildungen">andere Ausbildungen:</label></td>
+
+        <td>
+          <input
+            type="text"
+            id="andere Ausbildungen"
+            name="andere Ausbildungen"
+            required
+          />
+        </td>
+      </tr>
+
+      <tr class="registrierung2">
         <td colspan="2" style="text-align: center">
           <button type="submit">Registrieren</button>
         </td>
       </tr>
     </table>
   </form>
-
   <body>
     <!--Start of Tawk.to Script-->
 <script type="text/javascript">

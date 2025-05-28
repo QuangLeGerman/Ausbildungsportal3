@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Service</title>
   </head>
-  <h1 class="homepage1"> <a href="./index.html">homepage</a></h1>
+  <h1 class="homepage1"> <a href="./index.php">homepage</a></h1>
   <h1>
     Unser Service – Persönliche Beratung & Unterstützung auf deinem Weg <br />
     zur Ausbildung

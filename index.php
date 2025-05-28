@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="style.css" />
     <title>Document</title>
   </head>
-  <h1 class="homepage1"> <a href="./index.html">homepage</a></h1>
+  <h1 class="homepage1"> <a href="./index.php">homepage</a></h1>
   <h1>
     <div class="anhnentrang">
       <img src="./img/R1.jpg" alt="" class="anhnen" />
@@ -18,15 +18,15 @@
       <img src="./img/V1.jpg" alt="" class="anhnen" />
       <img src="./img/B1.jpg" alt="" class="anhnen" />
 
-      <span class="s1"><a href="./überuns.html"> Über uns</a></span>
-      <span class="s1"><a href="./unser_partner.html">unser Partner</a></span>
-      <span class="s1"><a href="./ausbildungen.html"></a></span>
-      <span class="s1"><a href="./service.html">Service</a></span>
-      <span class="s1"><a href="./kontakt.html">Kontakt</a></span>
-      <span class="s2"><a href="./registrieren.html">Registrieren</a></span>
-      <span class="s1"><a href="./anmelden_login.html">Anmelden/Log-in</a></span>
-      <span class="s1"><a href="./anmelden_login.html">MA Anmelden</a></span>
-      <span class="s1"><a href="./Ausbildungsanmeldung.html">Ausbildungsanmeldung</a></span>
+      <span class="s1"><a href="./überuns.php"> Über uns</a></span>
+      <span class="s1"><a href="./unser_partner.php">unser Partner</a></span>
+      <span class="s1"><a href="./ausbildungen.php"></a></span>
+      <span class="s1"><a href="./service.php">Service</a></span>
+      <span class="s1"><a href="./kontakt.php">Kontakt</a></span>
+      <span class="s2"><a href="./registrieren.php">Registrieren</a></span>
+      <span class="s1"><a href="./anmelden_login.php">Anmelden/Log-in</a></span>
+      <span class="s1"><a href="./anmelden_login.php">MA Anmelden</a></span>
+      <span class="s1"><a href="./Ausbildungsanmeldung.php">Ausbildungsanmeldung</a></span>
 
     </div>
   </h1>
@@ -76,7 +76,7 @@
 <h3>Deine Zukunft beginnt hier!</h3>
 <p>Mach den ersten Schritt in deine berufliche Zukunft <br>
      – finde jetzt deinen Ausbildungsplatz und starte deine Karriere mit einem Beruf, der zu dir passt.</p>
-<h5 class="timlink"><i> 👉 <a href="./index.html">Jetzt Ausbildungsplatz finden!</a> 
+<h5 class="timlink"><i> 👉 <a href="./Ausbildungsanmeldung.php">Jetzt Ausbildungsplatz finden!</a> 
 </i> </h5>
 
   <body class="flex items-center justify-center min-h-screen bg-gray-100">

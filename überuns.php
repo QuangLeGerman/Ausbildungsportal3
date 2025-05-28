@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Über uns</title>
   </head>
-  <h1 class="homepage1"> <a href="./index.html">homepage</a></h1>
+  <h1 class="homepage1"> <a href="./index.php">homepage</a></h1>
   <h1>Über uns</h1>
   <p>
     Willkommen auf APDA – deinem Partner für den erfolgreichen Start ins

@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="style.css" />
     <title>Registrieren</title>
   </head>
-  <h1 class="homepage1"> <a href="./index.html">homepage</a></h1>
+  <h1 class="homepage1"> <a href="./index.php">homepage</a></h1>
   <h1 style="color: red">Registrieren – Starte jetzt deine Zukunft!</h1>
   <p>
     Du suchst eine Ausbildung in Deutschland? <br />
@@ -41,7 +41,7 @@
   <ol>
     Beratung oder passende Ausbildung erhalten – wir melden uns bei dir!
   </ol>
-  <h1><a href="./registrierung.html"> [➡ Jetzt registrieren]</a></h1>
+  <h1><a href="./register.php"> [➡ Jetzt registrieren]</a></h1>
   <h1>
     Deine Ausbildung wartet – mach den ersten Schritt und werde Teil unserer
     Plattform.

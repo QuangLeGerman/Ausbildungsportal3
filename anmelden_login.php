@@ -7,9 +7,11 @@
 
 
     <title>Anmelden-Login</title>
-  </head>
-  <h1 class="homepage1"> <a href="./index.html">homepage</a></h1>
+  </head><h1><a href="index.php">Homepage</a></h1>
+  <h1 class="homepage1"> <a href="./index.php">homepage</a></h1>
   <h1 class="anmelden1">Anmelden / Log-in</h1>
+   <h1><a href="./inndex2.php">[➡ Jetzt anmelden]</a></h1>
+  <h1 style="color: chartreuse">
 
   <p>
     Willkommen zurück! Melde dich mit deinem Benutzerkonto an, um auf dein
@@ -33,17 +35,7 @@
   <ul>
     ● Persönliche Empfehlungen und Angebote erhalten
   </ul>
-  <h1>👤 Noch kein Konto?</h1>
-  <p>
-    Dann registriere dich hier kostenlos, um alle Vorteile unserer Plattform zu
-    nutzen.
-  </p>
-  <h1><a href="./index.html">[➡ Jetzt anmelden]</a></h1>
-  <h1 style="color: chartreuse">
-    Deine berufliche Zukunft ist nur einen Klick entfernt. <br />
-
-    Melde dich an und bleibe immer auf dem Laufenden!
-  </h1>
+ 
   <body>
     <!--Start of Tawk.to Script-->
 <script type="text/javascript">

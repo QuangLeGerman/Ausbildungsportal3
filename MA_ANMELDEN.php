@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="style.css" />
     <title>Anmelden für MA</title>
   </head>
-  <h1 class="homepage1"> <a href="./index.html">homepage</a></h1>
+  <h1 class="homepage1"> <a href="./index.php">homepage</a></h1>
   <h1 class="malogin">Mitarbeiter-Login</h1>
   <p>
     Willkommen im internen Bereich von APDA. <br />

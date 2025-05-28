@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Ausbildungen</title>
   </head>
-  <h1 class="homepage1"> <a href="./index.html">homepage</a></h1>
+  <h1 class="homepage1"> <a href="./index.php">homepage</a></h1>
   <h1 style="color: brown;">Ausbildung zum/zur Hotelfachmann / Hotelfachfrau</h1>
   <h1>Berufsbild</h1>
   <h2>
@@ -44,7 +44,7 @@ Als ausgebildete*r Hotelfachmann/-frau kannst du in folgenden Bereichen arbeiten
 <ul>● Gästehäuser & Pensionen</ul>
 <ul>● Event- und Tagungszentren</ul>
 <ul>● Gastronomiebetriebe</ul>
-<h1><a href="./index.html">einfach hier klicken</a>Starte jetzt deine Karriere im Hotelgewerbe – ein Beruf mit Zukunft und internationalen Möglichkeiten!</h1>
+<h1><a href="./index.php">einfach hier klicken</a>Starte jetzt deine Karriere im Hotelgewerbe – ein Beruf mit Zukunft und internationalen Möglichkeiten!</h1>
 
   <body>
     <!--Start of Tawk.to Script-->
